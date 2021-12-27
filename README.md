@@ -58,6 +58,6 @@ On Dec 27, 2017, at 05:17 pm,
 \> On 1 Dec 2017, at 1:11 am,
 
 ## Request New Format
-Leave a comment or send me a message at  mina@netmoly.com and I’ll be happy to modify the code to support your requested format.
+Leave a comment or send me a message at  minahafzalla@gmail.com and I’ll be happy to modify the code to support your requested format.
 
 *Note: This code can also be used for the Admin View Ticket template file.*
