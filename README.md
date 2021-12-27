@@ -1,7 +1,7 @@
 *Developed by Mina Hafzalla*
 
 # Auto Trimming of Quoted Email Text for WHMCS
-This workaround addresses an issue within WHMCS (WHM Complete Solution) where quoted text are not getting stripped when users reply to support tickets through email. WHMCS imports replies to the ticket system along with the original message when a user replies to an existing ticket directly via their email. This behavior might confuse users and it makes the whole ticket view unprofessional. Fortunately, I have developed a client-side regex code that goes into the Smarty view ticket template file and removes these quoted text. It supports most major email providers: Gmail, Outlook, Yahoo!, iCloud Mail and cPanel Webmail.
+This workaround addresses an issue within [WHMCS (WHM Complete Solution)](https://www.whmcs.com/members/aff.php?aff=12390) where quoted text are not getting stripped when users reply to support tickets through email. WHMCS imports replies to the ticket system along with the original message when a user replies to an existing ticket directly via their email. This behavior might confuse users and it makes the whole ticket view unprofessional. Fortunately, I have developed a client-side regex code that goes into the Smarty view ticket template file and removes these quoted text. It supports most major email providers: Gmail, Outlook, Yahoo!, iCloud Mail and cPanel Webmail.
 
 
 # Sample Ticket Reply
